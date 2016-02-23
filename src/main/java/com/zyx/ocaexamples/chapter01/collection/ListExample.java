@@ -1,10 +1,10 @@
-package edu.zyx.OcaExamples.collection.main;
+package com.zyx.ocaexamples.chapter01.collection;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import edu.zyx.OcaExamples.bean.Area;
-import edu.zyx.OcaExamples.bean.Employee;
+import com.zyx.ocaexamples.beans.Area;
+import com.zyx.ocaexamples.beans.Employee;
 
 /**
  * List, based on positions

@@ -1,4 +1,4 @@
-package edu.zyx.OcaExamples.collection.main;
+package com.zyx.ocaexamples.chapter01.collection;
 
 import java.util.HashSet;
 import java.util.LinkedHashSet;

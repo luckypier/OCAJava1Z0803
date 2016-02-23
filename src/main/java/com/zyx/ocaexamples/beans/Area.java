@@ -1,4 +1,4 @@
-package edu.zyx.OcaExamples.bean;
+package com.zyx.ocaexamples.beans;
 
 public class Area {
 	

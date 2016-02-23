@@ -1,4 +1,4 @@
-package edu.zyx.OcaExamples.flow;
+package com.zyx.ocaexamples.chapter02.flow;
 
 public class IfShortCircuit {
 

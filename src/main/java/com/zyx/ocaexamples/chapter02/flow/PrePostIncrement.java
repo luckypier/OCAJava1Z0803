@@ -1,4 +1,4 @@
-package edu.zyx.OcaExamples.flow;
+package com.zyx.ocaexamples.chapter02.flow;
 
 //Illegal modifier for (top level class) PrePostIncrement; only public, abstract & final are permitted
 //https://blogs.oracle.com/darcy/entry/nested_inner_member_and_top

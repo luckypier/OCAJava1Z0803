@@ -1,4 +1,4 @@
-package edu.zyx.OcaExamples.interpret;
+package com.zyx.ocaexamples.chapter01.interpret;
 
 public class PassingOptions {
 	

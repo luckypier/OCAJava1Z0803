@@ -1,4 +1,4 @@
-package edu.zyx.OcaExamples.bean;
+package com.zyx.ocaexamples.beans;
 
 import java.io.Serializable;
 
